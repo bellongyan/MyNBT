@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/myNBT2/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.213" />
+        <entry key="..\:/myNBT2/app/src/main/res/drawable/item.xml" value="0.2495" />
+        <entry key="..\:/myNBT2/app/src/main/res/layout/activity_eat_today.xml" value="0.34270833333333334" />
+        <entry key="..\:/myNBT2/app/src/main/res/layout/activity_login.xml" value="0.22419928825622776" />
+        <entry key="..\:/myNBT2/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/myNBT2/app/src/main/res/layout/activity_physique_calculator.xml" value="0.34270833333333334" />
+        <entry key="..\:/myNBT2/app/src/main/res/layout/activity_translate.xml" value="0.34270833333333334" />
+        <entry key="..\:/myNBT2/app/src/main/res/layout/fragment_dashboard.xml" value="0.34270833333333334" />
+        <entry key="..\:/myNBT2/app/src/main/res/layout/fragment_home.xml" value="0.34270833333333334" />
+        <entry key="..\:/myNBT2/app/src/main/res/layout/fragment_notifications.xml" value="0.3333333333333333" />
+        <entry key="..\:/myNBT2/app/src/main/res/layout/item.xml" value="0.3145833333333333" />
+        <entry key="..\:/myNBT2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.26296296296296295" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

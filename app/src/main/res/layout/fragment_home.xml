@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical"
+    tools:context="com.example.mynbt.ui.home.HomeFragment">
+
+
+    <TextView
+        android:id="@+id/text_weather"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="宁波"
+        android:textSize="18sp"/>
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="292dp"
+        android:layout_height="201dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/bg5"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="293dp"
+        android:layout_height="204dp"
+        android:layout_gravity="center"
+        android:src="@drawable/bg6"
+        tools:ignore="MissingConstraints" />
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="293dp"
+        android:layout_height="204dp"
+        android:layout_gravity="center"
+        android:src="@drawable/bg7"
+        tools:ignore="MissingConstraints" />
+</LinearLayout>
